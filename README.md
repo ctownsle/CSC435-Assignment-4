@@ -3,7 +3,7 @@
 # INSTRUCTIONS
 
 <html>
-<title>CSC435: Homework 4</title>
+
 <body bgcolor="#FFFFFF">
 <center>
 <h1>CSC435: Homework 4</h1>
