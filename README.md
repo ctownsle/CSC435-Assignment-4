@@ -20,3 +20,6 @@
 # MY ASSIGNMENT
 
 Create a Restful Song/Playlist API using Java Spark as the framework with a MySQL database as a data repository. This assignment is an extension of using java servlets and filters as as the "framework", and MySQL as a data repository.
+
+## Note
+Project name is assignment 2 because it is almost a direct extension from previous assignments.
